@@ -1,2 +1,2 @@
 # dusp-nbs
-This project has been moved to MIT-DUSP-NBS/dusp-nbs
+This project has been moved to [MIT-DUSP-NBS/dusp-nbs](https://github.com/MIT-DUSP-NBS/dusp-nbs)
